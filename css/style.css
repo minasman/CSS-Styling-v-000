@@ -5,4 +5,7 @@ p {
   line-height: 1.5em;
   }
   
-figcaption
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+}
