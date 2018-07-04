@@ -11,14 +11,14 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "Times New Roman", serif;*/
-  font: normal o.75em/1.5em Georgia, "Times New Roman", serif;
+  font: normal o.75em/1.5em 'Elsie', cursive;
   color: grey;
   text-align: right;
 }
 
 
 .milk-text {
-  font: bold 2.5em 'Elsie Swash Caps', cursive;
+  font: bold 2.5em 'Elsie', cursive;
   color: white;
   text-shadow: 0 2px #000;
 }
