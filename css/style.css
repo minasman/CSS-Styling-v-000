@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css?family=Elsie:400,900');/* This is a comment */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+  }
+  
+figcaption {
+  /*font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "Times New Roman", serif;*/
+  font: normal o.75em/1.5em 'Elsie', cursive;
+  color: grey;
+  text-align: right;
+}
+
+.milk-text {
+  font: bold 2.5em 'Elsie', cursive;
+  color: white;
+  text-shadow: 0 2px #000;
+}
+
+#logo {
+  background: aqua;
+}
+
+#logo h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#logo h2 {
+  font-family: 'Elsie', cursive;
+}
+
+#details a:link, #details a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+#details a:hover {
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: red;
+}
